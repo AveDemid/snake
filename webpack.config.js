@@ -38,7 +38,8 @@ module.exports = {
     alias: {
       "@features": path.resolve(__dirname, "src/features"),
       "@ui": path.resolve(__dirname, "src/ui"),
-      "@lib": path.resolve(__dirname, "src/lib")
+      "@lib": path.resolve(__dirname, "src/lib"),
+      "@pages": path.resolve(__dirname, "src/pages")
     }
   },
   devServer: {

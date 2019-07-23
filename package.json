@@ -1,7 +1,7 @@
 {
-  "name": "react-boilerplate",
+  "name": "snake",
   "version": "0.0.1",
-  "description": "My own React kit, for a quick start project",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "build:dev": "webpack --mode development",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AveDemid/react-boilerplate.git"
+    "url": "git+https://github.com/AveDemid/snake.git"
   },
   "author": "Ave Demid",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AveDemid/react-boilerplate/issues"
+    "url": "https://github.com/AveDemid/snake/issues"
   },
-  "homepage": "https://github.com/AveDemid/react-boilerplate#readme",
+  "homepage": "https://github.com/AveDemid/snake#readme",
   "devDependencies": {
     "@babel/core": "^7.5.5",
     "@babel/polyfill": "^7.4.4",
@@ -26,9 +26,9 @@
     "@babel/preset-react": "^7.0.0",
     "babel-loader": "^8.0.6",
     "clean-webpack-plugin": "^3.0.0",
-    "eslint": "^6.0.1",
+    "eslint": "^6.1.0",
     "eslint-loader": "^2.2.1",
-    "eslint-plugin-react": "^7.14.2",
+    "eslint-plugin-react": "^7.14.3",
     "eslint-plugin-react-hooks": "^1.6.1",
     "file-loader": "^4.1.0",
     "html-webpack-plugin": "^3.2.0",
@@ -44,7 +44,7 @@
     "react-router": "^5.0.1",
     "react-router-config": "^5.0.1",
     "react-router-dom": "^5.0.1",
-    "styled-components": "^5.0.0-beta.8",
+    "styled-components": "^5.0.0-beta.6-ej4",
     "styled-normalize": "^8.0.6"
   }
 }
